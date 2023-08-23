@@ -118,18 +118,18 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="LoadFileButton.Content" xml:space="preserve">
-    <value>Load from file...</value>
+    <value>Загрузить из файла...</value>
   </data>
   <data name="LoginButton.Content" xml:space="preserve">
-    <value>Login</value>
+    <value>Войти</value>
   </data>
   <data name="LoginWithDiscordButton.Content" xml:space="preserve">
-    <value>Login with Discord</value>
+    <value>Войти через Discord</value>
   </data>
   <data name="LoginWithTokenButton.Content" xml:space="preserve">
-    <value>Login with Token</value>
+    <value>Войти с помощью токена</value>
   </data>
   <data name="TokenTextBox.PlaceholderText" xml:space="preserve">
-    <value>Discord Token</value>
+    <value>Токен Discord</value>
   </data>
 </root>

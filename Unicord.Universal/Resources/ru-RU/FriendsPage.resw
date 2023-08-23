@@ -118,18 +118,18 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="FriendsAllItem.Header" xml:space="preserve">
-    <value>All</value>
+    <value>Все</value>
   </data>
   <data name="FriendsBlockedItem.Header" xml:space="preserve">
-    <value>Blocked</value>
+    <value>Заблокированные</value>
   </data>
   <data name="FriendsHeader.Text" xml:space="preserve">
-    <value>Friends</value>
+    <value>Друзья</value>
   </data>
   <data name="FriendsOnlineItem.Header" xml:space="preserve">
-    <value>Online</value>
+    <value>В сети</value>
   </data>
   <data name="FriendsPendingItem.Header" xml:space="preserve">
-    <value>Pending</value>
+    <value>Ожидает подтверждения</value>
   </data>
 </root>

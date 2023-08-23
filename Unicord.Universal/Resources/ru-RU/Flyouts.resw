@@ -118,81 +118,81 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddReaction.Text" xml:space="preserve">
-    <value>Add Reaction</value>
+    <value>Добавить реакцию</value>
   </data>
   <data name="Ban.Text" xml:space="preserve">
-    <value>Ban</value>
+    <value>Забанить</value>
   </data>
   <data name="ChangeNickname.Text" xml:space="preserve">
-    <value>Change Nickname</value>
+    <value>Сменить никнейм</value>
   </data>
   <data name="Copy.Text" xml:space="preserve">
-    <value>Copy</value>
+    <value>Копировать</value>
   </data>
   <data name="CopyID.Text" xml:space="preserve">
-    <value>Copy ID</value>
+    <value>Копировать ID</value>
   </data>
   <data name="CopyLink.Text" xml:space="preserve">
-    <value>Copy URL</value>
+    <value>Копировать URL</value>
   </data>
   <data name="CreateServerSubtitle.Text" xml:space="preserve">
-    <value>It's free!</value>
+    <value>Это бесплатно!</value>
   </data>
   <data name="CreateServerTitle.Text" xml:space="preserve">
-    <value>Create a new server</value>
+    <value>Создать новый сервер</value>
   </data>
   <data name="Delete.Text" xml:space="preserve">
-    <value>Delete</value>
+    <value>Удалить</value>
   </data>
   <data name="Edit.Text" xml:space="preserve">
-    <value>Edit</value>
+    <value>Редактировать</value>
   </data>
   <data name="EditMode.Text" xml:space="preserve">
-    <value>Edit Mode</value>
+    <value>Режим редактирования</value>
   </data>
   <data name="JoinExistingServerSubtitle.Text" xml:space="preserve">
-    <value>Use your invites!</value>
+    <value>Используйте инвайт!</value>
   </data>
   <data name="JoinExistingServerTitle.Text" xml:space="preserve">
-    <value>Join an existing server</value>
+    <value>Присоединится к существующему серверу</value>
   </data>
   <data name="Kick.Text" xml:space="preserve">
-    <value>Kick</value>
+    <value>Выгнать</value>
   </data>
   <data name="LeaveServer.Text" xml:space="preserve">
-    <value>Leave Server</value>
+    <value>Покинуть сервер</value>
   </data>
   <data name="MarkAsRead.Text" xml:space="preserve">
-    <value>Mark as Read</value>
+    <value>Пометить как прочитанное</value>
   </data>
   <data name="Message.Text" xml:space="preserve">
-    <value>Message</value>
+    <value>Сообщение</value>
   </data>
   <data name="Mute.Text" xml:space="preserve">
-    <value>Mute</value>
+    <value>Отключить уведомления</value>
   </data>
   <data name="NewWindow.Text" xml:space="preserve">
-    <value>Open in a new Window</value>
+    <value>Открыть в новом окне</value>
   </data>
   <data name="Pin.Text" xml:space="preserve">
-    <value>Pin Message</value>
+    <value>Закрепить сообщение</value>
   </data>
   <data name="PinToStart.Text" xml:space="preserve">
-    <value>Pin to Start</value>
+    <value>Прикрепить к меню Пуск</value>
   </data>
   <data name="Profile.Text" xml:space="preserve">
-    <value>Profile</value>
+    <value>Профиль</value>
   </data>
   <data name="Reply.Text" xml:space="preserve">
-    <value>Reply</value>
+    <value>Ответить</value>
   </data>
   <data name="SendMessage.Text" xml:space="preserve">
-    <value>Send Message</value>
+    <value>Отправить сообщение</value>
   </data>
   <data name="ShowFullProfile.Text" xml:space="preserve">
-    <value>Show Full Profile</value>
+    <value>Показать профиль полностью</value>
   </data>
   <data name="Unmute.Text" xml:space="preserve">
-    <value>Unmute</value>
+    <value>Включить уведомления</value>
   </data>
 </root>

@@ -118,64 +118,64 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessChannelsSubtitle" xml:space="preserve">
-    <value>Allows members to view this channel by default. Disabling this will make the channel private.</value>
+    <value>Позволяет участникам просматривать этот канал по умолчанию. Отключение данной опции сделает канал приватным.</value>
   </data>
   <data name="AccessChannelsTitle" xml:space="preserve">
-    <value>View Channel</value>
+    <value>Просмотр канала</value>
   </data>
   <data name="AddReactionsSubtitle" xml:space="preserve">
-    <value>Allows members to add new reactions to a message in this channel.</value>
+    <value>Позволяет участникам добавлять реакции к сообщениям в этом канале.</value>
   </data>
   <data name="AddReactionsTitle" xml:space="preserve">
-    <value>Allow Reactions</value>
+    <value>Разрешить реакции</value>
   </data>
   <data name="AttachFilesSubtitle" xml:space="preserve">
-    <value>Allows members to upload files or media in this channel.</value>
+    <value>Позволяет участникам загружать файлы и медиа в этот канал.</value>
   </data>
   <data name="AttachFilesTitle" xml:space="preserve">
-    <value>Attach Files</value>
+    <value>Прикрепление файлов</value>
   </data>
   <data name="CreateInstantInviteSubtitle" xml:space="preserve">
-    <value>Allows members to create invite links for this channel.</value>
+    <value>Позволяет участникам создавать ссылки-приглашения в этот канал.</value>
   </data>
   <data name="CreateInstantInviteTitle" xml:space="preserve">
-    <value>Create Invite</value>
+    <value>Создание ссылок-приглашений</value>
   </data>
   <data name="DeafenMembersSubtitle" xml:space="preserve">
-    <value>Allows members to server deafen other members in this voice channel.</value>
+    <value>Позволяет участникам оглушать других участников в этом голосовом канале.</value>
   </data>
   <data name="DeafenMembersTitle" xml:space="preserve">
-    <value>Deafen Members</value>
+    <value>Оглушение участников</value>
   </data>
   <data name="EmbedLinksSubtitle" xml:space="preserve">
-    <value>Allows generating embedded contents for links posted in this channel.</value>
+    <value>Позволяет встраивать контент из ссылок в этом канале.</value>
   </data>
   <data name="EmbedLinksTitle" xml:space="preserve">
-    <value>Embed Links</value>
+    <value>Встраивание из ссылок</value>
   </data>
   <data name="ManageChannelsSubtitle" xml:space="preserve">
-    <value>Allows members to delete this channel, as well as cahnge it's name, description and settings.</value>
+    <value>Позволяет участникам удалить этот канал, менять его название, описание, или свойства.</value>
   </data>
   <data name="ManageChannelsTitle" xml:space="preserve">
-    <value>Manage Channel</value>
+    <value>Управление каналом</value>
   </data>
   <data name="ManageMessagesSubtitle" xml:space="preserve">
-    <value>Allows members to delete and pin messages.</value>
+    <value>Позволяет участникам прикреплять и удалять сообщения.</value>
   </data>
   <data name="ManageMessagesTitle" xml:space="preserve">
-    <value>Manage Messages</value>
+    <value>Управление сообщениями</value>
   </data>
   <data name="ManageRolesSubtitle" xml:space="preserve">
-    <value>Allows members to change this channel's permissions.</value>
+    <value>Позволяет участникам менять разрешения в этом канале.</value>
   </data>
   <data name="ManageRolesTitle" xml:space="preserve">
-    <value>Manage Permissions</value>
+    <value>Управление разрешениями</value>
   </data>
   <data name="ManageWebhooksSubtitle" xml:space="preserve">
-    <value>Allows members to manage webhooks in this channel.</value>
+    <value>Позволяет участникам управлять вебхуками в этом канале.</value>
   </data>
   <data name="ManageWebhooksTitle" xml:space="preserve">
-    <value>Manage Webhooks</value>
+    <value>Управление вебхуками</value>
   </data>
   <data name="MentionEveryoneSubtitle" xml:space="preserve">
     <value>Allows members to use @everyone and @here in this channel, and @mention all roles.</value>

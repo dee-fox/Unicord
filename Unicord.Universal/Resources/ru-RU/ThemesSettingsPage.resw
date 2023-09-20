@@ -118,49 +118,49 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CloseButton.Content" xml:space="preserve">
-    <value>Close</value>
+    <value>Закрыть</value>
   </data>
   <data name="ColourSchemeBlock.Description" xml:space="preserve">
-    <value>This setting won't be synchronised with Discord.</value>
+    <value>Эта настройка не синхронизируется с Discord.</value>
   </data>
   <data name="ColourSchemeBlock.Title" xml:space="preserve">
-    <value>Colour Scheme</value>
+    <value>Цветовая схема</value>
   </data>
   <data name="ColourSchemeDark.Content" xml:space="preserve">
-    <value>Dark</value>
+    <value>Тёмная</value>
   </data>
   <data name="ColourSchemeDefault.Content" xml:space="preserve">
-    <value>System Default</value>
+    <value>Как в системе</value>
   </data>
   <data name="ColourSchemeLight.Content" xml:space="preserve">
-    <value>Light</value>
+    <value>Светлая</value>
   </data>
   <data name="EnableAfterInstallationCheckBox.Content" xml:space="preserve">
-    <value>Enable theme after installation</value>
+    <value>Включить тему после установки</value>
   </data>
   <data name="InstallButton.Content" xml:space="preserve">
-    <value>Install</value>
+    <value>Установить</value>
   </data>
   <data name="MainThemeHeader.Text" xml:space="preserve">
-    <value>Themes</value>
+    <value>Темы</value>
   </data>
   <data name="MainThemeSubheader.Text" xml:space="preserve">
-    <value>Wanna spice things up? Download some themes or learn how to make your own!</value>
+    <value>Хочешь что-то другое? Скачай тем или научись их делать!</value>
   </data>
   <data name="RelaunchRequired.Text" xml:space="preserve">
-    <value>Your changes will take effect once Unicord has been restarted.</value>
+    <value>Настройки вызовут эффект только после перезапуска приложения.</value>
   </data>
   <data name="ThemeAlreadyInstalledMessage" xml:space="preserve">
     <value>This theme is already installed, do you want to overwrite it?</value>
   </data>
   <data name="ThemeAlreadyInstalledTitle" xml:space="preserve">
-    <value>Theme already installed!</value>
+    <value>Тема уже установлена!</value>
   </data>
   <data name="ThemeChangedMessage" xml:space="preserve">
     <value>In order to update your theme, Unicord must restart. Do you want to restart now?</value>
   </data>
   <data name="ThemeChangedTitle" xml:space="preserve">
-    <value>Theme changed!</value>
+    <value>Тема изменена!</value>
   </data>
   <data name="ThemeInvalidDoesNotExist" xml:space="preserve">
     <value>Tried to load a theme that doesn't exist on disk. The theme has been uninstalled.</value>
@@ -176,12 +176,12 @@
 {0}</value>
   </data>
   <data name="ThemePreInstallCheckFailed" xml:space="preserve">
-    <value>A pre-install check failed! This probably means your device or the version of Windows you're running is not supported by this theme. Sorry!</value>
+    <value>Проверка перед установкой завершена с ошибкой! Скорее всего это значит что эта тема не поддерживает ваше устройство или версию Windows!</value>
   </data>
   <data name="ThemesSettingsHeader.Text" xml:space="preserve">
-    <value>Appearance</value>
+    <value>Внешний вид</value>
   </data>
   <data name="ThemeUnsupportedWindowsVersion" xml:space="preserve">
-    <value>The version of Windows you're running is not supported by this theme. Sorry!</value>
+    <value>Эта тема не поддерживает вашу версию Windows!</value>
   </data>
 </root>

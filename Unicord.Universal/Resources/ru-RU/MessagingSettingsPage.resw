@@ -118,55 +118,55 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AdjustRoleColoursBlock.Title" xml:space="preserve">
-    <value>Adjust User Colours for Readability</value>
+    <value>Отрегулировать пользовательские цвета для читаемости</value>
   </data>
   <data name="AdjustRoleColoursHeader.Text" xml:space="preserve">
-    <value>Contrast Adjustment</value>
+    <value>Регулировка контраста</value>
   </data>
   <data name="AutoPlayGIFsBlock.Title" xml:space="preserve">
-    <value>Automatically Play GIFs</value>
+    <value>Автоматически проигрывать GIF</value>
   </data>
   <data name="ChatHeader.Text" xml:space="preserve">
-    <value>Messages</value>
+    <value>Сообщения</value>
   </data>
   <data name="EnableSpoilersBlock.Title" xml:space="preserve">
-    <value>Hide Spoilered Content</value>
+    <value>Прятать контент с тегом "спойлер"</value>
   </data>
   <data name="LearnMoreButton.Content" xml:space="preserve">
-    <value>Learn More</value>
+    <value>Узнать больше</value>
   </data>
   <data name="MessagingSettingsHeader.Text" xml:space="preserve">
-    <value>Text and Images</value>
+    <value>Текст и изображения</value>
   </data>
   <data name="MinimumContrastSlider.Header" xml:space="preserve">
-    <value>Minimum Contrast</value>
+    <value>Минимальный контраст</value>
   </data>
   <data name="PromptLinksBlock.Description" xml:space="preserve">
-    <value>With this option enabled, you will be prompted by Windows before opening insecure links.</value>
+    <value>Включив эту опцию, Windows будет спрашивать вас об открытии небезопасных ссылок.</value>
     <comment>Tooltip for previous text</comment>
   </data>
   <data name="PromptLinksBlock.Title" xml:space="preserve">
-    <value>Prompt for Untrusted Links</value>
+    <value>Спрашивать о недоверенных ссылках</value>
   </data>
   <data name="ShowHugeEmojiBlock.Title" xml:space="preserve">
-    <value>Huge Emoji</value>
+    <value>Огромные эмодзи</value>
   </data>
   <data name="ShowStatusGlyphsBlock.Title" xml:space="preserve">
-    <value>Colourblind-friendly Status Indicators</value>
+    <value>Индикаторы статуса для дальтоников</value>
   </data>
   <data name="TimestampsSubheader.Text" xml:space="preserve">
-    <value>How do you want timestamps on messages to appear?</value>
+    <value>Как должны выглядеть отметки времени на сообщениях?</value>
   </data>
   <data name="TimestampStyleAbsolute.Text" xml:space="preserve">
-    <value>Absolute</value>
+    <value>Абсолютное время</value>
   </data>
   <data name="TimestampStyleBlock.Title" xml:space="preserve">
-    <value>Timestamp Style</value>
+    <value>Стиль отметки времени</value>
   </data>
   <data name="TimestampStyleBoth.Text" xml:space="preserve">
-    <value>Both</value>
+    <value>Оба</value>
   </data>
   <data name="TimestampStyleRelative.Text" xml:space="preserve">
-    <value>Relative</value>
+    <value>Относительное время</value>
   </data>
 </root>

@@ -121,9 +121,9 @@
     <value>results</value>
   </data>
   <data name="SearchBox.PlaceholderText" xml:space="preserve">
-    <value>Search...</value>
+    <value>Поиск...</value>
   </data>
   <data name="SearchHeader.Text" xml:space="preserve">
-    <value>Search</value>
+    <value>Поиск</value>
   </data>
 </root>
